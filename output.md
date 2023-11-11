@@ -1,3 +1,3 @@
 # WEBPAGE CLONE
 
-![SOLUTION OUTPUT](https://github.com/arpita2105/Resume-template/assets/136358528/bc3b2935-dc1e-4c87-8b60-2f43646ed126)
+![sol output](https://github.com/arpita2105/Resume-template/assets/136358528/97516f39-2199-4d7d-9988-c2be90d4ea74)
