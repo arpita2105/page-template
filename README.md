@@ -1,2 +1,0 @@
-# page-template
-webpage frontend 
