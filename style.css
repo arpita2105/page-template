@@ -23,7 +23,7 @@ body{
 .contai{
     background-image: url("assets/hero-image.png");
     background-repeat: no-repeat;
-    background-size: 61% 93%;
+    background-size: 61% 95%;
     background-position: right top 30px;
     background-attachment: fixed;   
 }
